@@ -1,0 +1,143 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "556D442D-040A-4051-864C-E0285A5ED0F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 432,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F70B0A88-F097-4908-9585-BD9F10B644F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "A70C7414-0A00-43CF-A364-5C526A5793ED"
+    },
+    {
+      "class": "rectangle",
+      "id": "99F1D009-D9CA-41C6-8E83-8D94D8B2D94C"
+    },
+    {
+      "class": "rectangle",
+      "id": "419B6397-3E90-45A0-9754-A07CA746FF3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F52F261-66A4-495A-8D9D-AC463671E89C"
+    },
+    {
+      "class": "rectangle",
+      "id": "992C7B4C-6011-4347-BBF4-03FD42D22991"
+    },
+    {
+      "class": "rectangle",
+      "id": "69E36507-C80F-4916-8030-6CAFE1F43D8B"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC6F8880-657B-4A63-A349-5C6A4DCAFF9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "30B26A42-73FB-4D6A-85FD-1E8B1E77036B"
+    },
+    {
+      "class": "rectangle",
+      "id": "C6143C82-ECA3-4BA0-B30C-1EB6BBBA2108"
+    },
+    {
+      "class": "rectangle",
+      "id": "B28585C0-9353-4BE3-87B2-DEFFFA6CD3E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "8305A7C2-4848-47EC-9AF9-291240EC659E"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Flexible Nested Grid 12 Col",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.15
+    },
+    "do_objectID": "1B7BD10F-F8A0-4457-BB96-8F9825C0D7B5",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

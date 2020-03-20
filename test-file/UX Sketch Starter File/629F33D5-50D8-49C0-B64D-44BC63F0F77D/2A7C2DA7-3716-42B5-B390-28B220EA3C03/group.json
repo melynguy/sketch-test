@@ -1,0 +1,175 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A7C2DA7-3716-42B5-B390-28B220EA3C03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 960,
+    "width": 769,
+    "x": -9.094947017729282e-13,
+    "y": 145
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "09B0D5D7-FA8C-48A9-849E-28B660D3770E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8151901D-886C-47C2-B13F-31932E53F5FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25A5EE26-6E6E-4C99-97B4-78DD87DA7B0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F20B7F9E-DB02-4DBA-9F22-7EC39C22B3C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B860610-FCFB-48CC-ACD6-CD9F6734BE75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9506AE22-8BD0-45EB-8B86-3FC1DFD5070A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB1681AC-85E0-4C12-A701-0682E5681E94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D0067B1-780C-4720-9E6D-6DE6D8F214E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2859D27-4BD0-4EC6-8DD6-CDE247D087E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D20147E6-2DF7-4DEB-A17C-9EE5D8E8515F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E6BD0F1-9C1E-4125-B80C-32329A7AAC80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4121200E-D2F8-45E2-8ACB-1F9E27E76FAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A84CBC5-C954-41F6-8109-D744591E801E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBCABF65-3A5F-48A4-B4AF-D3AE1BC76496"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6832CA7B-7074-4912-B2B5-BE6C61A548DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D17E5D64-380D-4292-BFEB-CBCB2DACD2BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8688AE5E-EF47-43C2-99D3-0A59B13AB056"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95700CB5-27C7-4B62-9326-22A3493B29CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DBFBD54-5EEA-4C0E-B640-ACE4DDAA1B35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C551DAB-0A7C-4726-B66D-65A8FA38D736"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "GRIDS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "112BD97C-0A5E-4F89-8F68-ADE739D9B593",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
