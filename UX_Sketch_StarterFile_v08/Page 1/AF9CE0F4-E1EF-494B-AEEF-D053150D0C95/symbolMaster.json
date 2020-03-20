@@ -1,0 +1,246 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1019,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF9CE0F4-E1EF-494B-AEEF-D053150D0C95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 432,
+    "width": 291,
+    "x": 17725,
+    "y": -13815
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1E4C2E69-550B-445E-BE40-F745BADB4CD0"
+    },
+    {
+      "class": "text",
+      "id": "2E19796D-FFB7-47EC-AD10-71E9F17368C6"
+    },
+    {
+      "class": "text",
+      "id": "3CA693F1-D2E0-4B2D-A61E-BB51F8292C94"
+    },
+    {
+      "class": "group",
+      "id": "8D23A6F2-2C7D-4D7D-B091-A0B51F53D20D"
+    },
+    {
+      "class": "text",
+      "id": "7B5F36CB-24E6-4867-B277-72A072659AEE"
+    },
+    {
+      "class": "text",
+      "id": "8263A3D1-F331-42BC-878D-699D43B81589"
+    },
+    {
+      "class": "text",
+      "id": "5C18BE4D-69DF-42B4-934A-0BB3FEBCCC02"
+    },
+    {
+      "class": "text",
+      "id": "C2C996F8-017F-4541-9322-6B94760406F2"
+    },
+    {
+      "class": "text",
+      "id": "73FF1A02-C1D1-4D89-8065-36EA6A82DDF2"
+    },
+    {
+      "class": "text",
+      "id": "FB2F125E-A68D-4B5C-BC90-494CEF7AD5A2"
+    },
+    {
+      "class": "text",
+      "id": "51CF78A7-2EA1-4128-B5B5-EFC31A2AF246"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C8FE7F5-AB2F-4ECA-B28E-82304866E3C4"
+    },
+    {
+      "class": "text",
+      "id": "24EC0412-A65B-4A71-92D3-7DD0152149F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C1F72F8-E35B-41B2-8BE6-D5512793CE9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFB6507E-46DF-469D-8A68-BEB408FE44DE"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Component/Order Summary/Cart/CA/Phone - Enter Postal Code",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5C18BE4D-69DF-42B4-934A-0BB3FEBCCC02_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2E19796D-FFB7-47EC-AD10-71E9F17368C6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "73FF1A02-C1D1-4D89-8065-36EA6A82DDF2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FB2F125E-A68D-4B5C-BC90-494CEF7AD5A2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C2C996F8-017F-4541-9322-6B94760406F2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8263A3D1-F331-42BC-878D-699D43B81589_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4C8FE7F5-AB2F-4ECA-B28E-82304866E3C4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3CA693F1-D2E0-4B2D-A61E-BB51F8292C94_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "24EC0412-A65B-4A71-92D3-7DD0152149F9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "51CF78A7-2EA1-4128-B5B5-EFC31A2AF246_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7B5F36CB-24E6-4867-B277-72A072659AEE_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0C1F72F8-E35B-41B2-8BE6-D5512793CE9E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AFB6507E-46DF-469D-8A68-BEB408FE44DE_symbolID"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B2085610-A9F9-4973-95F7-E19A54C5921E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B08EACBD-532B-4E4B-97A4-5F0BEF503BB2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
